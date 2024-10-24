@@ -1,4 +1,4 @@
-# Prueba-Analista-TI
+# Prueba Analista TI
 
 ## Descripción
 
